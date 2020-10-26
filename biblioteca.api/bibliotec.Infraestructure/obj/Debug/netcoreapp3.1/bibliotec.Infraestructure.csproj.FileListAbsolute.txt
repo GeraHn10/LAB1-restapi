@@ -1,0 +1,4 @@
+C:\Users\Gerahn10\source\repos\biblioteca.api\bibliotec.Infraestructure\obj\Debug\netcoreapp3.1\bibliotec.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Gerahn10\source\repos\biblioteca.api\bibliotec.Infraestructure\obj\Debug\netcoreapp3.1\bibliotec.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Gerahn10\source\repos\biblioteca.api\bibliotec.Infraestructure\obj\Debug\netcoreapp3.1\bibliotec.Infraestructure.AssemblyInfo.cs
+C:\Users\Gerahn10\source\repos\biblioteca.api\bibliotec.Infraestructure\obj\Debug\netcoreapp3.1\bibliotec.Infraestructure.csproj.CoreCompileInputs.cache
